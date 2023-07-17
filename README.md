@@ -25,11 +25,9 @@ To configure the backend of this project, follow these steps:
 3. Locate the database connection string and replace it with the connection string for your local database.
 4. note: im using java 17 and used spring.io to initialize the project
 
-**Note**: Make sure you have a running database instance with the necessary schema and tables before starting the backend.
+**Note**: Make sure you have a running database instance with the necessary schema  and tables are created automatically.
 
-## Usage Instructions
 
-[Add usage instructions for your project. Explain how to perform common tasks and provide examples if possible.]
 
 ## Features
 
