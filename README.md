@@ -2,8 +2,9 @@
 
 Welcome to peercore_Tasks! This repository contains the source code for a project 
 
-##  Demo
-You can access the  demo of the project by clicking [here]([add_live_demo_link](https://drive.google.com/file/d/1ja3rzhbLCb3YMkQj5LpEOehUylTNm06j/view?usp=sharing)).
+## Demo
+You can access the demo of the project by clicking [here](https://drive.google.com/file/d/1ja3rzhbLCb3YMkQj5LpEOehUylTNm06j/view?usp=sharing).
+
 
 ## Frontend Installation
 
