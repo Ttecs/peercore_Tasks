@@ -27,12 +27,6 @@ To configure the backend of this project, follow these steps:
 
 **Note**: Make sure you have a running database instance with the necessary schema  and tables are created automatically.
 
-
-
-## Features
-
-- [List the key features and functionalities of your project.]
-
 ## Technologies Used
 
 - [Spring Boot, NextJs, Tailwind ,pstgresQL.]
