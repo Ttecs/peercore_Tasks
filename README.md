@@ -5,6 +5,7 @@ Welcome to peercore_Tasks! This repository contains the source code for a projec
 ## Demo
 You can access the demo of the project by clicking [here](https://drive.google.com/file/d/1ja3rzhbLCb3YMkQj5LpEOehUylTNm06j/view?usp=sharing).
 
+## Customers who are not assigned to any group are categorized as "other" . use this group when adding a category 
 
 ## Frontend Installation
 
@@ -23,13 +24,13 @@ To configure the backend of this project, follow these steps:
 1. Navigate to the backend directory: `cd peercore_Tasks/backend`
 2. Open the `application.properties` file.
 3. Locate the database connection string and replace it with the connection string for your local database.
-4. note: im using java 17 and used spring.io to initialize the project
+4. note: I'm using Java 17 and used spring.io to initialize the project
 
 **Note**: Make sure you have a running database instance with the necessary schema  and tables are created automatically.
 
 ## Technologies Used
 
-- [Spring Boot, NextJs, Tailwind ,pstgresQL.]
+- [Spring Boot, NextJs, Tailwind, PostgreSQL.]
 
 
 
